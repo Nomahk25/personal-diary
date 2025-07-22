@@ -2,8 +2,7 @@ import os
 from datetime import datetime
 import getpass
 
-# Optional password protection
-PASSWORD = "diary123"  # Change this for more security
+PASSWORD = "diary123"
 
 def authenticate():
     print("🔒 Personal Diary Login")
