@@ -11,6 +11,4 @@ A simple personal diary app written in Python that allows users to write and rea
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/personal-diary.git
+python diary.py
